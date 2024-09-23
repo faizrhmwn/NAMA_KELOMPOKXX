@@ -9,7 +9,7 @@ TP progdas modul 4!!!
 5. Buatkan fungsi yang mengembalikan bilangan genap!
 6. Infokan tempat makan enak di temcy!
 
-
+hhj
 TP ditulis di kertas berkop, ditulis tangan dengan bolpoin berwarna biru, scan, dan kumpulkan di folder pengumpulan TP.
 [TP dikerjakan individu dan dikumpulkan secara berkelompok!]
 deadline: Senin, 23 September 2024 jam 07.04 pagi
